@@ -1,2 +1,0 @@
-# projects-gecskp
-projects@gecskp
